@@ -1,5 +1,5 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Hi, I'm Balaji Gunasekar, a passionate robotics engineer and a freelancer from France. My passion for Robotics lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I love to explore all domains to be more versatile and have multi-functional work. I have experience experience in CAD Modelling, ROS, Python Prgramming and 
+Hi, I'm Balaji Gunasekar, a passionate robotics engineer and a freelancer from France. My passion for Robotics lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I love to explore all domains to be more versatile and have multi-functional work. I have experience experience in CAD Modelling, ROS, Gazebo, Python and C++
 
 - 👀 I’m interested in ROS, Machine Learning, AI, Computer Vision, and Cad Designing
 - 🌱 I’m currently learning to master Unity 3D and Computer vision
