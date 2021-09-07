@@ -11,7 +11,7 @@ Welcome to my page, I'm Balaji Gunasekar, a passionate robotics engineer from In
 ![](https://visitor-badge.glitch.me/badge?page_id=balajigunasekar.balajigunasekar)
 
 <br />
-  <img align="right" alt="GIF" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/coder.gif?raw=true" width="500" height="320" />
+  <img align="left" alt="GIF" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/coder.gif?raw=true" width="500" height="320" />
   
   
 - 💼 Any freelance work? do reach, [Gmail](mailto:balajigunasekeran22@gmail.com).
