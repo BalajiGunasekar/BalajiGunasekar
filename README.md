@@ -5,24 +5,21 @@ Hi, I'm Balaji Gunasekar, a passionate robotics engineer from France. My passion
 - 🌱 I’m currently learning to master Unity 3D and Computer vision
 - 💞️ I’m looking to collaborate on Agricultural drones and Underwater Robotics in Open source community work.
 
-<a href="https://www.linkedin.com/in/balaji-gunasekar-b35038185/">
-  <img align="left" alt="Balaji Gunasekar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/balaji-gunasekar-b35038185/" target="_blank"><img alt="Balaji Gunasekar's LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=balajigunasekar.balajigunasekar)
+  </a>
 
 <br />
-
-
-
-
-  <img align="right" alt="GIF" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/coder.gif?raw=true" width="500" height="320" />
+  <img align="center" alt="GIF" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/coder.gif?raw=true" width="500" height="320" />
   
-- 💼 Any freelance work? do reach, [email](mailto:balajigunasekeran22@gmail.com) :)
+- 💼 Any freelance work? do reach, [Gmail](mailto:balajigunasekeran22@gmail.com) :)
 - 💬 Ask me about anything in Robotics and from my work, I am happy to help;
 
-**languages and tools:**  
+**Languages and Tools:**  
+
 <code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/c%2B%2B.jpg"></code>
 <code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/python-logo.png"></code>
 <code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/Git-Icon-Black.png"></code>
@@ -36,8 +33,8 @@ Hi, I'm Balaji Gunasekar, a passionate robotics engineer from France. My passion
 
 <br />
 
-📈 My Github Stats
+📈 **My Github Stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BalajiGunasekar&show_icons=true&theme=gotham" alt="BalajiGunasekar" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=BalajiGunasekar&show_icons=true&theme=gotham" alt="BalajiGunasekar" />
 
 
