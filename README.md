@@ -1,4 +1,4 @@
-### Hey! Nice to see you <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Welcome to my page, I'm Balaji Gunasekar, a passionate robotics engineer from India currently living in Nantes, France. My passion for Robotics lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I love to explore all domains in robotics to be more versatile and have multi-functional work. I have work experience in CAD Modelling, ROS, Gazebo, Python and C++
 
 - 👀 I’m interested in ROS, Machine Learning, AI, Computer Vision, and Cad Designing
@@ -10,14 +10,18 @@ Welcome to my page, I'm Balaji Gunasekar, a passionate robotics engineer from In
 
 ![](https://visitor-badge.glitch.me/badge?page_id=balajigunasekar.balajigunasekar)
 
-<br />
-  <img align="left" alt="GIF" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/coder.gif?raw=true" width="500" height="320" />
-  
-  
-- 💼 Any freelance work? do reach, [Gmail](mailto:balajigunasekeran22@gmail.com).
-- 💬 Ask me about anything in Robotics and from my work, I am happy to help.
 
-**languages and tools:**  
+  <img align="center" alt="GIF" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/coder.gif?raw=true" width="495" height="320" />
+  
+- 💼 Any freelance work? do reach, [Gmail](mailto:abhishek.naidu@cred.club) :)
+- 💬 Ask me about anything, i am happy to help;
+
+  
+  
+
+
+**Languages and Tools:**  
+
 <code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/c%2B%2B.jpg"></code>
 <code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/python-logo.png"></code>
 <code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/Git-Icon-Black.png"></code>
@@ -27,12 +31,8 @@ Welcome to my page, I'm Balaji Gunasekar, a passionate robotics engineer from In
 <code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/ubuntu.png"></code>
 <code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/Gazebo.png"></code>
 
+📈 **My Github Stats**
 
-
-<br />
-
-📈 My Github Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BalajiGunasekar&show_icons=true&theme=gotham" alt="BalajiGunasekar" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=BalajiGunasekar&show_icons=true&theme=gotham" alt="BalajiGunasekar" />
 
 
