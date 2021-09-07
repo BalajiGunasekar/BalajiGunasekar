@@ -7,7 +7,7 @@
 
 
 
-<a href="https://https://www.linkedin.com/in/balaji-gunasekar-b35038185/">
+<a href="https://www.linkedin.com/in/balaji-gunasekar-b35038185/">
   <img align="left" alt="Balaji Gunasekar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
