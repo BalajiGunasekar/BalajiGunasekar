@@ -30,6 +30,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/Matlab_Logo.png"></code>
+<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/ros_icon.png"></code>
+<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/Solid_works.jpg"></code>
+<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/ubuntu.png"></code>
+
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -55,13 +60,3 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
-
-
-
-
-
-
-<!---
-BalajiGunasekar/BalajiGunasekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
