@@ -1,9 +1,9 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Hi, I'm Balaji Gunasekar, a passionate robotics engineer and a freelancer from France. My passion for Robotics lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I love to explore all domains to be more versatile and have multi-functional work. I have experience experience in CAD Modelling, ROS, Gazebo, Python and C++
+Hi, I'm Balaji Gunasekar, a passionate robotics engineer from France. My passion for Robotics lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I love to explore all domains in robotics to be more versatile and have multi-functional work. I have work experience in CAD Modelling, ROS, Gazebo, Python and C++
 
 - 👀 I’m interested in ROS, Machine Learning, AI, Computer Vision, and Cad Designing
 - 🌱 I’m currently learning to master Unity 3D and Computer vision
-- 💞️ I’m looking to collaborate on Agricultural drones and Underwater Robotics
+- 💞️ I’m looking to collaborate on Agricultural drones and Underwater Robotics in Open source community work.
 
 <a href="https://www.linkedin.com/in/balaji-gunasekar-b35038185/">
   <img align="left" alt="Balaji Gunasekar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
