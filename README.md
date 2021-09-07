@@ -5,7 +5,7 @@ Welcome to my page, I'm Balaji Gunasekar, a passionate robotics engineer from In
 - 🌱 I’m currently learning to master Unity 3D and Computer vision
 - 💞️ I’m looking to collaborate on Agricultural drones and Underwater Robotics in Open source community work.
 
-<p><a href="https://github.com/BalajiGunasekar/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/balaji-gunasekar-b35038185/" target="_blank"><img alt="Balaji Gunasekar's LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p><a href="https://github.com/BalajiGunasekar/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/balaji-gunasekar-b35038185/" target="_blank"><img alt="Balaji Gunasekar's LinkedIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=balajigunasekar.balajigunasekar)
@@ -13,8 +13,8 @@ Welcome to my page, I'm Balaji Gunasekar, a passionate robotics engineer from In
 
   <img align="center" alt="GIF" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/coder.gif?raw=true" width="495" height="320" />
   
-- 💼 Any freelance work? do reach, [Gmail](mailto:abhishek.naidu@cred.club) :)
-- 💬 Ask me about anything, i am happy to help;
+- 💼 Any freelance work? do reach me, [Gmail](mailto:abhishek.naidu@cred.club) :)
+- 💬 Ask me about anything, I am happy to help;
 
   
   
