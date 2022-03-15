@@ -1,5 +1,5 @@
 ### Hey! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Welcome to my page, I'm Balaji Gunasekar, a passionate robotics engineer from India currently living in Nantes, France. My passion for Robotics lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I love to explore all domains in robotics to be more versatile and have multi-functional work. I have work experience in CAD Modelling, ROS, Gazebo, Python and C++
+Welcome to my page, I'm Balaji Gunasekar, a passionate robotics engineer from India currently living in Nantes, France. My passion for Robotics lies with dreaming up ideas and making them come true with my skills. I take great care in the experience, architecture, and code quality of the things I build. I love to explore all domains in robotics to be more versatile and have multi-functional work. I have work experience in CAD Modelling, ROS, Gazebo, Python and C++
 
 - 👀 I’m interested in ROS, Machine Learning, AI, Computer Vision, and Cad Designing
 - 🌱 I’m currently learning to master Machine Learning and Computer vision
