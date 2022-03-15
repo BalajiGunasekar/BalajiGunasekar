@@ -21,14 +21,14 @@ Welcome to my page, I'm Balaji Gunasekar, a passionate robotics engineer from In
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/c%2B%2B.jpg"></code>
-<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/python-logo.png"></code>
-<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/Git-Icon-Black.png"></code>
-<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/Matlab_Logo.png"></code>
-<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/ros_icon.png"></code>
-<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/Solid_works.jpg"></code>
-<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/ubuntu.png"></code>
-<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/Gazebo.png"></code>
+<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/icons/c%2B%2B.jpg"></code>
+<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/icons/python-logo.png"></code>
+<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/icins/Git-Icon-Black.png"></code>
+<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/icons/Matlab_Logo.png"></code>
+<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/icons/ros_icon.png"></code>
+<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/icons/Solid_works.jpg"></code>
+<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/icons/ubuntu.png"></code>
+<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/icons/Gazebo.png"></code>
 
 📈 **My Github Stats**
 
