@@ -13,7 +13,7 @@ Welcome to my page, I'm Balaji Gunasekar, a passionate robotics engineer from In
 
   <img align="center" alt="GIF" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/coder.gif?raw=true" width="495" height="320" />
   
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything related to robotics, I am happy to help;
 
   
   
