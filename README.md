@@ -23,7 +23,7 @@ Welcome to my page, I'm Balaji Gunasekar, a passionate robotics engineer from In
 
 <code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/icons/c%2B%2B.jpg"></code>
 <code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/icons/python-logo.png"></code>
-<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/icins/Git-Icon-Black.png"></code>
+<code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/icons/Git-Icon-Black.png"></code>
 <code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/icons/Matlab_Logo.png"></code>
 <code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/icons/ros_icon.png"></code>
 <code><img height="20" src="https://github.com/BalajiGunasekar/BalajiGunasekar/blob/main/icons/Solid_works.jpg"></code>
